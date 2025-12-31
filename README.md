@@ -1,4 +1,4 @@
-# 🛡️ ShieldAI — AI Scam Detector
+#  ShieldAI — AI Scam Detector
 
 ShieldAI is an AI-powered scam detection web application that helps users identify scams **before they strike**.  
 It analyzes **text, URLs, emails, SMS messages, voice recordings, and images** to detect scam indicators in real time.
@@ -61,3 +61,4 @@ It analyzes **text, URLs, emails, SMS messages, voice recordings, and images** t
 ├── public/             # Static assets
 ├── README.md
 └── package.json
+
