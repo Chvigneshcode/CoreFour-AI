@@ -33,13 +33,6 @@ It analyzes **text, URLs, emails, SMS messages, voice recordings, and images** t
 
 ---
 
-## Preview
-
-![ShieldAI Preview](./public/preview.png)
-
-> _(Add a screenshot of your app here for better visibility)_
-
----
 
 ##  Tech Stack
 
@@ -61,4 +54,5 @@ It analyzes **text, URLs, emails, SMS messages, voice recordings, and images** t
 ├── public/             # Static assets
 ├── README.md
 └── package.json
+
 
