@@ -55,4 +55,7 @@ It analyzes **text, URLs, emails, SMS messages, voice recordings, and images** t
 ├── README.md
 └── package.json
 
+##  Demo Video 
+https://drive.google.com/file/d/18_N1j60Le9KqowbV8L-gcq9g5oCTZmeR/view?usp=drivesdk
+
 
